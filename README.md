@@ -9,6 +9,8 @@ Work in finding alternative methods, though often not visibly progressing toward
 
 (please feel free to add to this list!)
 
+[add suppliers.md to here]
+
 ## Electronics
 
 - Arrow
