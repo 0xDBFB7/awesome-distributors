@@ -20,7 +20,10 @@ Work in finding alternative methods, though often not visibly progressing toward
 
 - https://www.futurlec.com/Ultrasonic_Sensors.shtml
 
-Not to be confused with Future Electronics, a few more 
+Not to be confused with Future Electronics.
+
+- Ultrasonic sensors
+- Relatively inexpensive PCB manufacturing
 
 
 - [x] Sells to individuals
